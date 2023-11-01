@@ -1,0 +1,32 @@
+.product {
+    width: 100%;
+    height: 50vh;
+    border: 1px solid black;
+}
+
+.product__img {
+    width: 100%;
+    height: 50%;
+    background-image: url(https://cdn.tgdd.vn/Files/2022/07/07/1445532/laptop-like-new-99-la-gi-co-tot-khong-co-nen-1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.product__content {
+    width: 100%;
+    height: 50%;
+    padding: 0 10px;
+}
+
+.row {
+    width: 100%;
+    justify-content: space-around;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.border-ccc {
+    border: 1px solid #ccc;
+}

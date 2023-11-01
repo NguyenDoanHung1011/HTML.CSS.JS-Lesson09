@@ -1,0 +1,49 @@
+* {
+    box-sizing: inherit;
+    padding: 0;
+    margin: 0;
+}
+
+.content {
+    border: 1px solid #337ab7;
+    border-radius: 4px;
+}
+
+.content-header {
+    height: 50px;
+    background-color: #337ab7;
+    color: white;
+}
+
+.content-header__heading {
+    line-height: 50px;
+    margin: 0 30px;
+}
+
+.container {
+    padding: 0 !important;
+}
+
+table {
+    width: 95%;
+    margin: 20px auto 40px auto;
+}
+
+td {
+    height: 30px;
+    padding-left: 10px !important;
+}
+
+.footer {
+    height: 25px;
+    background-color: #337ab7;
+    color: white;
+    text-align: center;
+    line-height: 25px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+
+.footer__text {
+    margin: 0 !important;
+}
